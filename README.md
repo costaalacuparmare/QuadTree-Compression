@@ -1,6 +1,8 @@
-## Compression Quad Tree ##
+# Compression Quad Tree
 
-####  CONSTANTINESCU Vlad 314CB - checker result: 80p + 20p VALGRIND locally ####
+>
+
+## CONSTANTINESCU Vlad
 
 This is a short explanation of the contents of the archive and my implementaIption
 
