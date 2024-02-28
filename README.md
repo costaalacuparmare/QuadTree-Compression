@@ -1,7 +1,7 @@
 # Compression Quad Tree
 
 >usage: ./quadtree [-c1 factor | -c2 factor | -d] [input_file] [output_file]
-
+>
 >-c1: build the compression tree and output the number of levels, the blocks of picture compressed in the factor and the biggest square of pixels undivided
 >
 >-c2: binary output of the compression tree by levels
