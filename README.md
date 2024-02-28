@@ -3,13 +3,13 @@
 >usage: ./quadtree [-c1 factor | -c2 factor | -d] [input_file] [output_file]
 
 >-c1: build the compression tree and output the number of levels, the blocks of picture compressed in the factor and the biggest square of pixels undivided
-
+>
 >-c2: binary output of the compression tree by levels
-
+>
 >-d: decompression of the file => ".ppm" file of P6 type
-
+>
 >input_file: P6 ".ppm" file, works only with square pictures (powers of 2)
-
+>
 >output_file: for the first two arguments: simple file, for the decompression: ".ppm" file
 
 ## CONSTANTINESCU Vlad
